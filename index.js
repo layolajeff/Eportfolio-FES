@@ -2,7 +2,7 @@
 
 // service_y8qwpfo--service
 
-// gre1zD_S_UgKC6c_M--public key
+// 94xlOlahhEtLLMVlh--public key
 
 
 
@@ -17,7 +17,7 @@ function contact (event) {
             'service_y8qwpfo',
             'template_1gedmlt', 
            event.target,
-            '94xlOlahhEtLLMVlh'
+            'I1UO4wqKJoPIRkpqy'
         ).then(() => {
             loading.classList.remove ("modal__overlay--visible");
             success.classList += " modal__overlay--visible";
